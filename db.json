@@ -2,30 +2,15 @@
   "posts": [
     {
       "id": 1,
-      "title": "Post 1"
+      "text": "Thisisthecontentofmyblogpost.",
+      "timestamp": "Tue Jan 05 2021 09:35:06 GMT+0530",
+      "title": "TheTitleofMyBlogPost"
     },
     {
       "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
+      "text": "Deardiary,todayImetafishwhocouldtalk.",
+      "timestamp": "Tue Jan 05 2021 8:35:06 GMT+0530",
+      "title": "AWeirdThingHappened..."
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "mani"
-  }
+  ]
 }
