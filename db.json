@@ -3,13 +3,13 @@
     {
       "id": 1,
       "text": "Thisisthecontentofmyblogpost.",
-      "timestamp": "Tue Jan 05 2021 09:35:06 GMT+0530",
+      "timestamp": "1609819506000",
       "title": "TheTitleofMyBlogPost"
     },
     {
       "id": 2,
       "text": "Deardiary,todayImetafishwhocouldtalk.",
-      "timestamp": "Tue Jan 05 2021 8:35:06 GMT+0530",
+      "timestamp": "1609815906000",
       "title": "AWeirdThingHappened..."
     }
   ]
