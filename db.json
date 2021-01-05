@@ -1,12 +1,16 @@
 {
   "posts": [
-    {"id":1278002762936,
-    "text":"Thisisthecontentofmyblogpost.",
-    "timestamp":"ThuJul0109:46:02PST2010",
-    "title":"TheTitleofMyBlogPost"},
-    {"id":1277858967163,
-    "text":"Deardiary,todayImetafishwhocouldtalk.",
-    "timestamp":"TueJun2917:49:27PST2010",
-    "title":"AWeirdThingHappened..."}
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
   ]
 }
