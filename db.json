@@ -1,10 +1,8 @@
 {
   "posts": [
     {
-      "id":1278002762936,
-      "text":"Thisisthecontentofmyblogpost.",
-      "timestamp":"ThuJul0109:46:02PST2010",
-      "title":"TheTitleofMyBlogPost"
+      "id": 1,
+      "title": "Post 1"
     }
   ]
 }
