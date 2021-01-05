@@ -1,9 +1,12 @@
 {
-  "posts": [{"id":1278002762936,
-"text":"Thisisthecontentofmyblogpost.",
-"timestamp":"ThuJul0109:46:02PST2010",
-"title":"TheTitleofMyBlogPost"}, {"id":1277858967163,
-"text":"Deardiary,todayImetafishwhocouldtalk.",
-"timestamp":"TueJun2917:49:27PST2010",
-"title":"AWeirdThingHappened..."}]
+  "posts": [
+    {"id":1278002762936,
+    "text":"Thisisthecontentofmyblogpost.",
+    "timestamp":"ThuJul0109:46:02PST2010",
+    "title":"TheTitleofMyBlogPost"},
+    {"id":1277858967163,
+    "text":"Deardiary,todayImetafishwhocouldtalk.",
+    "timestamp":"TueJun2917:49:27PST2010",
+    "title":"AWeirdThingHappened..."}
+  ]
 }
